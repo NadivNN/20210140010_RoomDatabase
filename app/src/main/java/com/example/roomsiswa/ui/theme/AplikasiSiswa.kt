@@ -1,4 +1,8 @@
 package com.example.roomsiswa.ui.theme
 
-class AplikasiSiswa {
+import android.app.Application
+
+
+class AplikasiSiswa : Application(){
+
 }
